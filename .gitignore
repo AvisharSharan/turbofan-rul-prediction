@@ -43,9 +43,7 @@ Thumbs.db
 # Project-specific
 eda_outputs/
 rul_results.csv
-*.csv
-dataset/
-*.txt
+# Keep dataset and source CSV/TXT files tracked.
 
 # Jupyter
 .ipynb_checkpoints/
